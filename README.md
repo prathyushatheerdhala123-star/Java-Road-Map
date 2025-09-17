@@ -4,13 +4,12 @@
 This is an initiation designed for freshers and anyone who wishes to learn <b>Java programming</b> with a clear roadmap, resources, hands-on practice, and guidance.
 <h3>👨‍🏫 Mentor Details</h3>
 
-- 🧑‍💻 **Name:**   
-- 📧 **E-Mail:** [krishna@edam.tech](mailto:krishna@edam.tech)  
-- 💼 **LinkedIn:** [Sai Krishna Dusa](https://www.linkedin.com/in/saikrishnadusa)  
+- 🧑‍💻 **Name:** Theerdhala Prathyusha  
+- 📧 **E-Mail:** prathyusha.theerdhala123@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/prathyushatheerdhala
  
-
-- - 🧑‍💻 **Name:**   
-- 📧 **E-Mail:** [krishna@edam.tech](mailto:krishna@edam.tech)  
+-  🧑‍💻 **Name:** Munnuri Vaishnavi 
+- 📧 **E-Mail:** vanivaishu49@gmail.com  
 - 💼 **LinkedIn:** [Sai Krishna Dusa](https://www.linkedin.com/in/saikrishnadusa)
 
  ## 🚀 Kick-off your Java Journey
