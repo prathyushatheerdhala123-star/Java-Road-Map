@@ -43,7 +43,9 @@ Before diving into the challenge, ensure you have Java installed on your system.
 ### Java Language Basics
 ## (Day 21 - Day 22)
 ### Mini Project
+
 <h2 align="center">🥉 Bronze Badge </h2>
+
 ## (Day 23 - Day 37)
 ### OOP Concepts
 ## (Day 38 - Day 39)
@@ -52,12 +54,16 @@ Before diving into the challenge, ensure you have Java installed on your system.
 ### String Concepts
 ## (Day 43 - Day 47)
 ### Array Concepts
+
 <h2 align="center">🥈 Silver Badge </h2>
+
 ## (Day 48 - Day 58)
 ### Collections
 ## (Day 59 - Day 72)
 ### I/O File Operations
+
 <h2 align="center">🥇 Gold Badge </h2>
+
 ## (Day 73 - Day 82)
 ### Exception Handling
 ## (Day 83 - Day 91)
