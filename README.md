@@ -33,7 +33,7 @@ Before diving into the challenge, ensure you have Java installed on your system.
   >  *We suggest using **VS Code** for a smooth and lightweight Java development experience.*  
 -  Basic understanding of how to navigate your operating system (creating folders, opening terminals, etc.)
 
-
+## Access the RoadMap attached at the end of this README FILE
 
 ## 📚 Topics 
 ## (Day 1)
@@ -74,7 +74,7 @@ Before diving into the challenge, ensure you have Java installed on your system.
 ### Final Project
 
 
-
+## Here is the roadmap: https://docs.google.com/spreadsheets/d/16c9VOd9dSxUvGUWHEf5m8q0sf0JyM3JWzwZC2PC6F1g/edit?usp=sharing
 
 
 
